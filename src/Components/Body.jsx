@@ -9,7 +9,7 @@ const Body = () => {
       <>
         <div>
           <div>
-            <h1>Welcome back to DashBoard Dear User</h1>
+            <h1>Welcome back to DashBoard dear User</h1>
           </div>
           <div>
             <h2>We are here to Serve you Tell us what we can do for you</h2>
